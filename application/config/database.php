@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> 'mysql:host=localhost;dbname=wdm',
-	'hostname' => '',
-	'username' => 'anurag',
-	'password' => 'wdm2018#',
+	'hostname' => 'localhost',
+	'username' => 'abhishek',
+	'password' => 'abc123',
 	'database' => 'wdm',
 	'dbdriver' => 'pdo',
 	'dbprefix' => '',
